@@ -1,0 +1,10 @@
+
+.container{
+
+text-align: center;
+}
+input[type=text] {
+    background-color: #3CBC8D;
+    color: rgb(220, 43, 43);
+  }
+  
